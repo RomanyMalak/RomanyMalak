@@ -65,9 +65,7 @@ A full ASP.NET Core 8 Web API for managing employees with:
 - CRUD operations  
 👉 *Repo:* https://github.com/RomanyMalak/EmployeeProject
 
-### 🔹 **Awesome GitHub Profile Readme (Customized Version)**
-Custom GitHub profile template enhanced and modified for personal branding.  
-👉 *Repo:* https://github.com/RomanyMalak/awesome-github-profile-readme
+
 
 ---
 
